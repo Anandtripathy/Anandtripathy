@@ -1,14 +1,24 @@
-### Hello, I am currently looking for Job opportunity in DevOps Engineer and Data Analytics. 👋
+### *Hello, I'm Anand* 👋
+
+Welcome to my profile! I am Self motivated programmer with experience on DevOps and data Analytics.I have completed Msc. in Data Analytics from DBS Ireland and currently looking for Job opportunity as a DevOps Engineer and Data Analyst. 
 
 
-Here are some ideas to get you started:
+Major Technical Skills:
+* Primary Languages: Python
+* ML Frameworks: Pandas, NumPy, Scikit-Learn, Matplotlib, Natural Language Processing(NLTK), Keras, Scikit multi-flow.
+* Databases: MySQL, PostgreSQL.
+* Data Visualization & Data Management Tool: Tableau
+* Web Service Development: RESTful, SOAP
+* Version Control System: GIT
+* Operating System: Linux, Windows
+* IDE: Jupyter Notebook, Spyder, Google Collab
+* CI/CD: Azure DevOps
+* Bug Tracking tool: Azure Boards, JIRA
+* Cloud Technologies: AWS
+* Development Methodology: Agile/Scrum
+* Familiar with: Docker, Jenkins
 
-- 🔭 I’m currently working on ... Docker, Jenkins, Machine Learning
-- 🌱 I’m currently learning ... Kubernetes, AWS.  
-- 👯 I’m looking to collaborate on ... Kubernetes
-- 🤔 I’m looking for help with ... Kubernetes
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... anandt.14@gamil.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I Like to code.
--->
+***Get in touch:***
+
+- **LinkedIn:** https://www.linkedin.com/in/anand-mohan-tripathy/
+- **Personal Email:** anandt.14@gamil.com
