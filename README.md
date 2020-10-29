@@ -1,9 +1,9 @@
-### *Hello, I'm Anand* 👋
+## *Hello, I'm Anand* 👋
 
-Welcome to my profile! I am Self motivated programmer with experience on DevOps and data Analytics.I have completed Msc. in Data Analytics from DBS Ireland and currently looking for Job opportunity as a DevOps Engineer and Data Analyst. 
+Welcome to my profile! I am Self motivated programmer with experience on DevOps and data Analytics.I have completed MSc. in Data Analytics from Dublin Business School and currently looking for Job opportunity as a DevOps Engineer and Data Analyst. 
 
 
-Major Technical Skills:
+### *Major Technical Skills:* ###
 * Primary Languages: Python
 * ML Frameworks: Pandas, NumPy, Scikit-Learn, Matplotlib, Natural Language Processing(NLTK), Keras, Scikit multi-flow.
 * Databases: MySQL, PostgreSQL.
@@ -18,7 +18,6 @@ Major Technical Skills:
 * Development Methodology: Agile/Scrum
 * Familiar with: Docker, Jenkins
 
-***Get in touch:***
-
+## *Get in touch:* ##
 - **LinkedIn:** https://www.linkedin.com/in/anand-mohan-tripathy/
 - **Personal Email:** anandt.14@gamil.com
