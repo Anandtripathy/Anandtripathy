@@ -12,11 +12,11 @@ Welcome to my profile! I am Self motivated programmer with experience on DevOps 
 * Version Control System: GIT
 * Operating System: Linux, Windows
 * IDE: Jupyter Notebook, Spyder, Google Collab
-* CI/CD: Azure DevOps
+* CI/CD: Azure DevOps,Docker, Jenkins
 * Bug Tracking tool: Azure Boards, JIRA
 * Cloud Technologies: AWS
 * Development Methodology: Agile/Scrum
-* Familiar with: Docker, Jenkins
+* Familiar with: Kubernetes, Terraform
 
 ## *Get in touch:* ##
 - **LinkedIn:** https://www.linkedin.com/in/anand-mohan-tripathy/
